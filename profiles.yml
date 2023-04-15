@@ -7,3 +7,5 @@ default:
       project: antarang-dashboard
       dataset: dev_goalkeep
       threads: 4
+      keyfile: /Users/swapneelrane/Documents/Goalkeep/ClientProjects/Antarang/credentials/antarang-dashboard-42c9afa90cf2.json
+      location: asia-south1
